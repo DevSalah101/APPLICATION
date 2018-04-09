@@ -1,28 +1,30 @@
 {
-  "name": "application",
-  "version": "1.0.0",
-  "description": "plateform for services",
-  "main": "gulpfile.js",
+  "name": "sassline",
+  "version": "2.1.2",
+  "description": "Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/designbyjake/sassline.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-webserver": "^0.9.1",
+    "jeet": "^7.2.0",
+    "node-sass": "^4.8.3"
+  },
   "scripts": {
     "start": "gulp"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DevSalah101/APPLICATION.git"
-  },
   "keywords": [
-    "app"
+    "sass",
+    "baseline",
+    "boilerplate",
+    "modular-scale"
   ],
-  "author": "DEVSALAH",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DevSalah101/APPLICATION/issues"
-  },
-  "homepage": "https://github.com/DevSalah101/APPLICATION#readme",
-  "dependencies": {
-    "spectre.css": "^0.5.1"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+  "author": "Jake Giltsoff <hi@jke.me> (http://jke.me)",
+  "license": "MIT"
 }
