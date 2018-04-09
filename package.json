@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DevSalah101/APPLICATION/issues"
   },
-  "homepage": "https://github.com/DevSalah101/APPLICATION#readme"
+  "homepage": "https://github.com/DevSalah101/APPLICATION#readme",
+  "dependencies": {
+    "spectre.css": "^0.5.1"
+  }
 }
