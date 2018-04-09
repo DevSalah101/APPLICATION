@@ -21,5 +21,8 @@
   "homepage": "https://github.com/DevSalah101/APPLICATION#readme",
   "dependencies": {
     "spectre.css": "^0.5.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
