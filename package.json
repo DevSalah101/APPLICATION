@@ -1,0 +1,22 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "plateform for services",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSalah101/APPLICATION.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "DEVSALAH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevSalah101/APPLICATION/issues"
+  },
+  "homepage": "https://github.com/DevSalah101/APPLICATION#readme"
+}
